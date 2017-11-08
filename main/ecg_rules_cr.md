@@ -150,23 +150,13 @@ SECTION 2 - CARDS AND CARD TYPES
 
 2.3 Tokens and Game Cards
 
-2.3.1 Tokens represent an object in the In-play area that is not represented by a card. Tokens all have the
-
-Token trait. At the beginning of the game, players may have a “token pile” where their tokens wait to be used. (This token pile is not a game zone.)
+2.3.1 Tokens represent an object in the In-play area that is not represented by a card. Tokens all have the Token trait. At the beginning of the game, players may have a “token pile” where their tokens wait to be used. (This token pile is not a game zone.)
 
 2.3.2 When a card creates a Token, it puts the Token into play under the control of the player that plays the effect unless the card says otherwise.
 
 2.3.3 Token Champions come into play Prepared and Deploying (see 5.17 Deploying)
 
-2.3.4 Use of the provided Token cards to represent token champions is recommended but not mandatory.
-
-Wolf Tokens are 2/2 Wild Wolf Token Champions
-
-Zombie Tokens are 2/2 Evil Zombie Token Champions
-
-Human Tokens are 1/1 Good Human Token Champions, and
-
-Demon Tokens are 4/4 Evil Demon Token Champions.
+2.3.4 Use of the provided Token cards to represent token champions is recommended but not mandatory. Wolf Tokens are 2/2 Wild Wolf Token Champions Zombie Tokens are 2/2 Evil Zombie Token Champions Human Tokens are 1/1 Good Human Token Champions, and Demon Tokens are 4/4 Evil Demon Token Champions.
 
 2.3.5 Tokens can only exist in the In-play area. If a Token would leave the In-play area, it is diverted and removed from the game (typically to the token pile).
 
@@ -194,141 +184,76 @@ Demon Tokens are 4/4 Evil Demon Token Champions.
 
 2.5.2 The card’s Alignment is also a trait, and is listed on the card type line.
 
-2.5.3 Alignment is not a power or ability, and cannot be affected by cards that remove powers or abilities.
-
-Effects may add an alignment if the card specifically say this, and cards may have more than one alignment.
-
-(For example: Dark Leader says that “your other human champions have +1 offense and are also evil.”
-
-While you have Dark Leader in play your human tokens are both good and evil.)
+2.5.3 Alignment is not a power or ability, and cannot be affected by cards that remove powers or abilities. Effects may add an alignment if the card specifically say this, and cards may have more than one alignment. (For example: Dark Leader says that “your other human champions have +1 offense and are also evil.” While you have Dark Leader in play your human tokens are both good and evil.)
 
 2.6 Cards in play.
 
 2.6.1 Cards in the In-play zone may be Prepared, Expended, or Flipped.
 
-2.6.2 Prepared cards are aligned to the controller vertically, with the bottom edge towards the controller.
-
-Unless specified, cards enter play prepared.
+2.6.2 Prepared cards are aligned to the controller vertically, with the bottom edge towards the controller. Unless specified, cards enter play prepared.
 
 2.6.3 Expended cards are turned sideways from the controller.
 
-2.6.4 Flipped cards are turned 180 degrees, with the bottom edge facing away from the controller. Cards
-
-that are flipped may still be expended.
+2.6.4 Flipped cards are turned 180 degrees, with the bottom edge facing away from the controller. Cards that are flipped may still be expended.
 
 2.7 Counters
 
-2.7 Some cards, abilities, and powers can generate Counters. Counters are placed on Champions, and
+2.7 Some cards, abilities, and powers can generate Counters. Counters are placed on Champions, and may modify that Champion’s stats, rules text, or traits. (For instance: Djinn of the Sands enters play with three +1 offense / +1 defense counters.)
 
-may modify that Champion’s stats, rules text, or traits. (For instance: Djinn of the Sands enters play with
-
-three +1 offense / +1 defense counters.)
-
-2.7.1 Counters may be represented by anything within reason (agreeable to both players and/or tournament
-
-staff).
+2.7.1 Counters may be represented by anything within reason (agreeable to both players and/or tournament staff).
 
 2.7.2 The effect that generates the counter will state what the counter does.
 
-2.7.3 Counters have a cumulative effect. There is no limit on the amount of counters that may be placed on
-
-a Champion.
+2.7.3 Counters have a cumulative effect. There is no limit on the amount of counters that may be placed on a Champion.
 
 SECTION 3 - PLAYING A CARD
 
-3.0 Playing a card refers to all of the actions necessary to legally play the card, and following all of the
-
-instructions on the card in order to have it resolve correctly.
+3.0 Playing a card refers to all of the actions necessary to legally play the card, and following all of the instructions on the card in order to have it resolve correctly.
 
 3.1 To play a card, a player must have Initiative (See 4.1 Initiative)
 
-3.1.1 When a player has Initiative, the player may play a card, use a Power (3.5), or pass (see 4.1 Initiative).
-
-If a player has Initiative during their turn and is not already in a Battle Phase, they may initiate a Battle (4.4).
+3.1.1 When a player has Initiative, the player may play a card, use a Power (3.5), or pass (see 4.1 Initiative). If a player has Initiative during their turn and is not already in a Battle Phase, they may initiate a Battle (4.4).
 
 3.2 To play a card, the player must first be able to meet the Costs of the card (see 3.6 Costs).
 
-3.2.1 The player pays all costs of the card and announces the card. If there are two effects divided by the
+3.2.1 The player pays all costs of the card and announces the card. If there are two effects divided by the word OR, the player will choose the effect that they wish to play.
 
-word OR, the player will choose the effect that they wish to play.
+3.2.2 Any abilities that have their trigger condition met will trigger, but will wait until the resolution of the card in order to start resolving. Example: If you have a Champion in play with “When you play an event → Gain 2 health.” you wouldn’t actually gain the 2 health until the Event you played finished resolving.
 
-3.2.2 Any abilities that have their trigger condition met will trigger, but will wait until the resolution of the card
+3.2.3 The player that played the card follows the instructions of the relevant portion in the text box of the card in the order listed.
 
-in order to start resolving. Example: If you have a Champion in play with “When you play an event → Gain 2
+3.2.3a If the card is a Champion, this will simply involve putting the Champion into the In-play area. You may only play champions on your turn, when you have Initiative, not during battle.
 
-health.” you wouldn’t actually gain the 2 health until the Event you played finished resolving.
+3.2.3b Some Champions have the Ambush keyword, which allow them to be played any time you may play an Event.
 
-3.2.3 The player that played the card follows the instructions of the relevant portion in the text box of the
+3.2.3c A player may play an event when they have Initiative, even during another player’s turn. The player will do as much of what the event card says, in the order listed.
 
-card in the order listed.
+3.2.3d If a card or power refers to targeting something, those targets are chosen at the time the effect resolves, not when the card or power is first played. (For instance, if there are no token champions in play and you play an event that says “Put a human token into play. Destroy target token champion.” you would be required to target and destroy the human token you just created.) See Target (5.20) for more information.
 
-3.2.3a If the card is a Champion, this will simply involve putting the Champion into the In-play area. You
-
-may only play champions on your turn, when you have Initiative, not during battle.
-
-3.2.3b Some Champions have the Ambush keyword, which allow them to be played any time you may play
-
-an Event.
-
-3.2.3c A player may play an event when they have Initiative, even during another player’s turn. The player
-
-will do as much of what the event card says, in the order listed.
-
-3.2.3d If a card or power refers to targeting something, those targets are chosen at the time the effect
-
-resolves, not when the card or power is first played. (For instance, if there are no token champions in play
-
-and you play an event that says “Put a human token into play. Destroy target token champion.” you would
-
-be required to target and destroy the human token you just created.) See Target (5.20) for more information.
-
-3.2.4 When the card is done resolving, it will enter play (if a Champion) or it will go to the discard pile (if an
-
-Event).
+3.2.4 When the card is done resolving, it will enter play (if a Champion) or it will go to the discard pile (if an Event).
 
 3.2.5 Any ability that triggered during the playing or resolution of the card will now resolve.
 
-3.2.5a If there are multiple abilities triggered, all of these abilities will go into a batch. If an ability or abilities
-
-trigger and there is a batch that hasn't started resolving, the abilities are added to that batch. Otherwise all
-
-of these abilities go into a new batch. The abilities controlled by the player with Initiative are resolved first in
-
-an order of their choosing, then each other player (in a clockwise direction) resolves their in an order of their
-
+3.2.5a If there are multiple abilities triggered, all of these abilities will go into a batch. If an ability or abilities trigger and there is a batch that hasn't started resolving, the abilities are added to that batch. Otherwise all of these abilities go into a new batch. The abilities controlled by the player with Initiative are resolved first in an order of their choosing, then each other player (in a clockwise direction) resolves their in an order of their
 choosing.
 
-Example: Player A controls 2 Fire Shaman. Player A plays Burrowing Wurm. Both Fire Shaman abilities
-
-trigger. Player A names Player B’s Warrior Golem as the target. Warrior Golem’s ability triggers, but is put
-
-on hold because the first batch of triggers has yet to completely resolve.
+Example: Player A controls 2 Fire Shaman. Player A plays Burrowing Wurm. Both Fire Shaman abilities trigger. Player A names Player B’s Warrior Golem as the target. Warrior Golem’s ability triggers, but is put on hold because the first batch of triggers has yet to completely resolve.
 
 3.2.6 The player that played the card now has Initiative to play another card, use a power, attack, or pass.
 
 3.3 Continuous Abilities
 
-3.3.1 A continuous ability is an effect on a card that does not have an activation cost (3.5 Powers) or a
-
-trigger (3.4 Triggers).. Example: Standard Bearer gives all your other Good champions +2 offense.
+3.3.1 A continuous ability is an effect on a card that does not have an activation cost (3.5 Powers) or a trigger (3.4 Triggers).. Example: Standard Bearer gives all your other Good champions +2 offense.
 
 3.3.2 Continuous abilities don’t target, so they may affect untargetable champions.
 
-3.3.3 Continuous abilities apply to everything in play at the same time as the card is in play. They stop
-
-applying when the card leaves play.
+3.3.3 Continuous abilities apply to everything in play at the same time as the card is in play. They stop applying when the card leaves play.
 
 3.4 Triggered Abilities
 
-3.4.1 Triggered abilities are abilities that are produced when a specific condition is met. Triggered abilities
+3.4.1 Triggered abilities are abilities that are produced when a specific condition is met. Triggered abilities are denoted by an arrow in the rules text. The condition is listed before an arrow, with the effect listed after the arrow. Example: “When this card is broken → Draw a card.”
 
-are denoted by an arrow in the rules text. The condition is listed before an arrow, with the effect listed after
-
-the arrow. Example: “When this card is broken → Draw a card.”
-
-3.4.2 If an ability triggers in the middle of the resolution of an event or effect, that ability will wait until the
-
-next time an event could be played (by anyone) in order to resolve.
+3.4.2 If an ability triggers in the middle of the resolution of an event or effect, that ability will wait until the next time an event could be played (by anyone) in order to resolve.
 
 3.5 Powers
 
@@ -340,37 +265,23 @@ colon.
 
 3.5.2 Powers may be activated any time the controlling player could play an event.
 
-3.5.3 If the full amount of the cost cannot be paid, the power cannot be played. Example: Crystal Golem has
-
-a power of “Break this card: Draw two cards.” If Crystal Golem also had unbreakable , the power couldn’t be
-
-used.
+3.5.3 If the full amount of the cost cannot be paid, the power cannot be played. Example: Crystal Golem has a power of “Break this card: Draw two cards.” If Crystal Golem also had unbreakable , the power couldn’t be used.
 
 3.6 Costs
 
-3.6.1 The cost to play a card is the value in the top right corner of the card, plus any additional costs listed in
+3.6.1 The cost to play a card is the value in the top right corner of the card, plus any additional costs listed in the text box, plus any costs added by other cards and/or effects.
 
-the text box, plus any costs added by other cards and/or effects.
-
-3.6.2 The cost to play a power is listed to the left of the colon in the text box of the card that is generating
-
-the power, plus costs added by other cards and/or effects.
+3.6.2 The cost to play a power is listed to the left of the colon in the text box of the card that is generating the power, plus costs added by other cards and/or effects.
 
 3.6.3 If a player cannot pay the cost of a card or power, the player may not play the card or power.
 
 3.7 Reversing an action
 
 3.7.1 If a player plays a card or uses a power, that player may opt to reverse the actions, undo
-
 consequences, and retrieve all costs as long as the following is true:
 
-- The player has gained no knowledge from the actions associated with playing that card or using that
-
-power (for example, drawing a card or seeing a player’s pick of an option that card provides ), AND
-
-- The player has not started another sequence of actions by playing a different card or using a
-
-different power or passing initiative.
+- The player has gained no knowledge from the actions associated with playing that card or using that power (for example, drawing a card or seeing a player’s pick of an option that card provides ), AND
+- The player has not started another sequence of actions by playing a different card or using a different power or passing initiative.
 
 SECTION 4 - GAME PHASES AND INITIATIVE
 
@@ -378,9 +289,7 @@ SECTION 4 - GAME PHASES AND INITIATIVE
 
 4.1 Initiative
 
-4.1.1 At the start of a player’s turn, that player gains Initiative. A player retains Initiative until they elect to
-
-pass.
+4.1.1 At the start of a player’s turn, that player gains Initiative. A player retains Initiative until they elect to pass.
 
 4.1.2 Players may make plays only when they have Initiative. Plays include playing a card or using a power.
 
