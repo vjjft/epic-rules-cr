@@ -4,110 +4,58 @@ Last Updated: April 6th 2017
 
 © White Wizard Games LLC
 
-
-This document contains the complete rules of the game, including obscure clauses. It is intended for
-
-tournament organizers and judges of Epic. The standard rulebook can be found at
-
-EpicCardGame.com/rules .
+This document contains the complete rules of the game, including obscure clauses. It is intended for tournament organizers and judges of Epic. The standard rulebook can be found at EpicCardGame.com/rules .
 
 Comments? Questions? Please email events@EpicCardGame.com and let us know!
 
 SECTION 1 - OVERVIEW
 
-1.0 This document contains the full rules for Epic Card Game (“Epic”) by White Wizard Games. Permission
-
-is granted to reproduce and/or distribute this document without charge for use with Epic events.
+1.0 This document contains the full rules for Epic Card Game (“Epic”) by White Wizard Games. Permission is granted to reproduce and/or distribute this document without charge for use with Epic events.
 
 1.1 These rules apply to all games of Epic, regardless of format or number of players.
 
-1.2 In these rules, the term “Player” refers to an individual. In the case of a team game where players share
-
-a turn and a single health total (the Hydra format, for instance) the term “Player” refers to the team.
+1.2 In these rules, the term “Player” refers to an individual. In the case of a team game where players share a turn and a single health total (the Hydra format, for instance) the term “Player” refers to the team.
 
 1.2 Winning and Losing
 
 1.2.1 A player wins the game if either:
 
-● They try to draw a card from an empty deck, or
-
-● They are the only player remaining in the game (all opponents are eliminated), or
-
-● They fulfill an alternate win condition .
+- They try to draw a card from an empty deck, or
+- They are the only player remaining in the game (all opponents are eliminated), or
+- They fulfill an alternate win condition .
 
 1.2.2 A player is eliminated if either:
 
-● Their health total is reduced to 0 or less,
-
-● or if they leave the game (for example, if they concede).
+- Their health total is reduced to 0 or less,
+- or if they leave the game (for example, if they concede).
 
 1.3 Deck
 
-1.3.1 A player’s deck consists of the game cards (see 2.3 Tokens and Game Cards) with which they start
+1.3.1 A player’s deck consists of the game cards (see 2.3 Tokens and Game Cards) with which they start the game. These are shuffled randomly in a face-down stack.
 
-the game. These are shuffled randomly in a face-down stack.
-
-1.3.2 If playing with God or Demigod cards, they start the game in the Supplemental zone and are not part
-
-of a player's deck.
+1.3.2 If playing with God or Demigod cards, they start the game in the Supplemental zone and are not part of a player's deck.
 
 1.4 Zones
 
-1.4.1 There are five zones in the game: Hand, In-play, Deck, Discard pile, and Supplemental Zone. A card
+1.4.1 There are five zones in the game: Hand, In-play, Deck, Discard pile, and Supplemental Zone. A card will always be in one of these zones.
 
-will always be in one of these zones.
+1.4.2 When something refers to the Hand, it refers to the zone. It is still considered a hand even if it contains no cards. The number of cards in a player’s hand is public information, though the exact contents are considered hidden.
 
-1.4.2 When something refers to the Hand, it refers to the zone. It is still considered a hand even if it
+1.4.3 The In-play zone contains all cards and tokens that are put in play. These remain in the In-play zone unless a card or effect removes them. Everything in play is considered known information.
 
-contains no cards. The number of cards in a player’s hand is public information, though the exact contents
-
-are considered hidden.
-
-1.4.3 The In-play zone contains all cards and tokens that are put in play. These remain in the In-play zone
-
-unless a card or effect removes them. Everything in play is considered known information.
-
-1.4.4 When something refers to the Discard pile, it refers to the zone. It is still considered a discard pile
-
-even if it contains no cards. The discard pile zone contains all of the cards that have been discarded, or
-
-removed from the In-play zone via breaking. Only cards may be placed in the discard pile, though tokens
-
-may attempt to go there before being diverted to the token pile. Cards in the discard pile are face-up, and
-
-are public information (may be examined by any player). The order of the cards in the discard pile does not
-
-matter.
+1.4.4 When something refers to the Discard pile, it refers to the zone. It is still considered a discard pile even if it contains no cards. The discard pile zone contains all of the cards that have been discarded, or removed from the In-play zone via breaking. Only cards may be placed in the discard pile, though tokens may attempt to go there before being diverted to the token pile. Cards in the discard pile are face-up, and are public information (may be examined by any player). The order of the cards in the discard pile does not matter.
 
 1.4.5 The Deck refers to the pile of face-down game cards with which each player starts the game.
 
-1.4.6 The Supplemental Zone contains God and Demigod cards, if used, at the beginning of the game.
+1.4.6 The Supplemental Zone contains God and Demigod cards, if used, at the beginning of the game. When a player plays an event card, it goes into this zone while they finish doing everything listed on that card, then it goes to the discard pile zone.
 
-When a player plays an event card, it goes into this zone while they finish doing everything listed on that
+1.4.7 Whenever a card would go from a zone which has public information to one where it does not (for instance, from the discard pile to the deck), that card must be made available to all players beforehand. Players have the right to see the card being moved before it is hidden.
 
-card, then it goes to the discard pile zone.
-
-1.4.7 Whenever a card would go from a zone which has public information to one where it does not (for
-
-instance, from the discard pile to the deck), that card must be made available to all players beforehand.
-
-Players have the right to see the card being moved before it is hidden.
-
-1.4.8 When a card is revealed from a player’s hand due to a card effect (for instance, for the Loyalty ability),
-
-the identity of that card is public information long enough for anyone to inspect the card, and then it
-
-becomes hidden information again. Players have the right to see the card before it is hidden again. If a card
-
-changes zones while it is revealed, that zone change will also be known to all players.
+1.4.8 When a card is revealed from a player’s hand due to a card effect (for instance, for the Loyalty ability), the identity of that card is public information long enough for anyone to inspect the card, and then it becomes hidden information again. Players have the right to see the card before it is hidden again. If a card changes zones while it is revealed, that zone change will also be known to all players.
 
 1.5 Health
 
-1.5.1 In a standard game, each player starts at 30 health. Players are expected to use a method to keep
-
-track of their health total that is agreeable to all players. Alternate formats may have players start with a
-
-different amount of Health.
+1.5.1 In a standard game, each player starts at 30 health. Players are expected to use a method to keep track of their health total that is agreeable to all players. Alternate formats may have players start with a different amount of Health.
 
 1.5.2 There is no maximum Health.
 
@@ -118,94 +66,51 @@ different amount of Health.
 1.6 Drawing a card
 
 1.6.1 Drawing a card refers to the act of a player taking the top card of their deck and putting it into their
-
 hand.
 
-1.6.2 If a player attempts to draw a card, but cannot because there aren’t enough cards left in the deck, that
-
-player wins the game.
+1.6.2 If a player attempts to draw a card, but cannot because there aren’t enough cards left in the deck, that player wins the game.
 
 1.6.3 Players will draw a card at the start of their turn.
 
-1.6.4 Unless a format specifically says otherwise, the player who goes first does not draw a card at the start
-
-of their first turn.
+1.6.4 Unless a format specifically says otherwise, the player who goes first does not draw a card at the start of their first turn.
 
 1.7 Discarding
 
-1.7.1 Discarding a card refers to the act of a player taking a card from their hand, and putting it into their
-
-discard pile.
+1.7.1 Discarding a card refers to the act of a player taking a card from their hand, and putting it into their discard pile.
 
 1.7.2 If instructed to discard multiple cards at once, a player must do so to the best of their ability. Example:
 
-An effect says to discard two cards but the player only has one in their hand. In this case, the player
+An effect says to discard two cards but the player only has one in their hand. In this case, the player discards that card.
 
-discards that card.
+1.7.3 If discarding a card is a cost of a power and a player has no cards in their hand, since they cannot pay the cost they may not use that power.
 
-1.7.3 If discarding a card is a cost of a power and a player has no cards in their hand, since they cannot pay
-
-the cost they may not use that power.
-
-1.7.4 If any player has more than 7 cards in their hand at the end of their turn, that player discards cards
-
-until they have 7.
+1.7.4 If any player has more than 7 cards in their hand at the end of their turn, that player discards cards until they have 7.
 
 1.8 Starting hand and the Mulligan rule
 
-1.8.1 As the game starts, each player shuffles their deck and draws an opening hand of 5 cards. This may
+1.8.1 As the game starts, each player shuffles their deck and draws an opening hand of 5 cards. This may be modified by God cards.
 
-be modified by God cards.
-
-1.8.2 After drawing their opening hand, each player may choose any number of cards from that hand. The
-
-chosen cards are placed on the bottom of their deck in a random order, and the same number of cards is
-
-drawn from the deck. The player loses 1 health for each card drawn this way.
+1.8.2 After drawing their opening hand, each player may choose any number of cards from that hand. The chosen cards are placed on the bottom of their deck in a random order, and the same number of cards is drawn from the deck. The player loses 1 health for each card drawn this way.
 
 1.8.3 All cards must be mulliganed at the same time. Example: A player chooses to mulligan two cards.
 
-The cards are placed on the bottom of the deck, two cards are drawn, and 2 Health is lost. The player may
+The cards are placed on the bottom of the deck, two cards are drawn, and 2 Health is lost. The player may not choose to mulligan any more.
 
-not choose to mulligan any more.
-
-1.8.4 The player going second in the game makes the first decision as to how many cards to mulligan.
-
-Other players mulligan in clockwise order from that player.
+1.8.4 The player going second in the game makes the first decision as to how many cards to mulligan. Other players mulligan in clockwise order from that player.
 
 1.9 Card Ownership
 
-1.9.1 For the purposes of gameplay, the owner of a card is the person who began the game with that card in
+1.9.1 For the purposes of gameplay, the owner of a card is the person who began the game with that card in their deck or in play.
 
-their deck or in play.
-
-1.9.2 If a card would go to a deck, hand, or discard pile, it goes to that of its owner, even if it was controlled
-
-by another player.
+1.9.2 If a card would go to a deck, hand, or discard pile, it goes to that of its owner, even if it was controlled by another player.
 
 1.9.3 If a player leaves a game, all cards that player owns also leave the game.
 
 1.10 Public and Private Information
 
-1.10.1 Opponents have the right to know anything that is public information. This includes: The number of
+1.10.1 Opponents have the right to know anything that is public information. This includes: The number of cards in a player’s hand and deck, the contents of each discard pile, the rules text of any card that is visible (in-play, discard pile, or supplemental) as well as cards that are revealed from a player’s hand at the time they are revealed, any unlisted modifications on a card (including damage, and increases or decreases to offense or defense), and health total of any player or team.
 
-cards in a player’s hand and deck, the contents of each discard pile, the rules text of any card that is visible
-
-(in-play, discard pile, or supplemental) as well as cards that are revealed from a player’s hand at the time
-
-they are revealed, any unlisted modifications on a card (including damage, and increases or decreases to
-
-offense or defense), and health total of any player or team.
-
-1.10.2 Anything that isn’t public information is considered private information, and does not have to be
-
-shared or revealed to any opponent. Players are allowed to share private information if they are on the
-
-same team as long as they have access to that information. Example: A player may not share the identity
-
-of the top card of their deck unless they have some effect that allows them to know what the top card of
-
-their deck is.
+1.10.2 Anything that isn’t public information is considered private information, and does not have to be shared or revealed to any opponent. Players are allowed to share private information if they are on the same team as long as they have access to that information. Example: A player may not share the identity of the top card of their deck unless they have some effect that allows them to know what the top card of their deck is.
 
 SECTION 2 - CARDS AND CARD TYPES
 
@@ -213,37 +118,23 @@ SECTION 2 - CARDS AND CARD TYPES
 
 2.0.1 Cards may have other types, as seen on the type line.
 
-2.0.2 An individual object that isn’t a card is considered a Token (see 2.3 Tokens), though they may be
-
-represented by cards.
+2.0.2 An individual object that isn’t a card is considered a Token (see 2.3 Tokens), though they may be represented by cards.
 
 2.1 Champions
 
 2.1.1 Champion cards have the Champion trait on the card type line.
 
-2.1.2 Champions have an alignment, as indicated on the card type line and by the icon in the upper left
-
-corner of the card.
+2.1.2 Champions have an alignment, as indicated on the card type line and by the icon in the upper left corner of the card.
 
 2.1.3 Champions have a cost, as indicated in the upper-right corner of the card.
 
-2.1.4 Champions have a Class, such as human or dragon. A card’s class has no gameplay effect by itself,
+2.1.4 Champions have a Class, such as human or dragon. A card’s class has no gameplay effect by itself, but other cards may use it. (For instance, “Your dragons have +5 offense.”)
 
-but other cards may use it. (For instance, “Your dragons have +5 offense.”)
+2.1.5 Champions have an offense statistic, listed as a number on the left-side of the card in front of two swords. This number is the amount of damage it will deal to an opposing champion or player in battle.
 
-2.1.5 Champions have an offense statistic, listed as a number on the left-side of the card in front of two
+2.1.6 Champions have a defense statistic, listed as a number on the right-side of the card in front of the shield. This number is the amount of damage that must be dealt in a single turn to break it. (A broken champion is placed in its owner’s discard pile.)
 
-swords. This number is the amount of damage it will deal to an opposing champion or player in battle.
-
-2.1.6 Champions have a defense statistic, listed as a number on the right-side of the card in front of the
-
-shield. This number is the amount of damage that must be dealt in a single turn to break it. (A broken
-
-champion is placed in its owner’s discard pile.)
-
-2.1.7 When a Champion enters play, it enters the In-play area as Prepared and Deploying. (See Prepared,
-
-and also see Deploying.)
+2.1.7 When a Champion enters play, it enters the In-play area as Prepared and Deploying. (See Prepared, and also see Deploying.)
 
 2.1.8 Champions may be Tokens. (See 2.3 Tokens)
 
@@ -253,9 +144,7 @@ and also see Deploying.)
 
 2.2.2 Event cards have an alignment and a cost and may have a class, similar to Champions.
 
-2.2.3 When an Event card is played, it is placed into the Supplemental Zone, the player that played it follows
-
-all of the instructions on the card to the best of their ability. (See Section 3: Playing a Card.)
+2.2.3 When an Event card is played, it is placed into the Supplemental Zone, the player that played it follows all of the instructions on the card to the best of their ability. (See Section 3: Playing a Card.)
 
 2.2.4 When a player finishes resolving an Event, they place it into their Discard pile.
 
@@ -263,13 +152,9 @@ all of the instructions on the card to the best of their ability. (See Section 3
 
 2.3.1 Tokens represent an object in the In-play area that is not represented by a card. Tokens all have the
 
-Token trait. At the beginning of the game, players may have a “token pile” where their tokens wait to be
+Token trait. At the beginning of the game, players may have a “token pile” where their tokens wait to be used. (This token pile is not a game zone.)
 
-used. (This token pile is not a game zone.)
-
-2.3.2 When a card creates a Token, it puts the Token into play under the control of the player that plays the
-
-effect unless the card says otherwise.
+2.3.2 When a card creates a Token, it puts the Token into play under the control of the player that plays the effect unless the card says otherwise.
 
 2.3.3 Token Champions come into play Prepared and Deploying (see 5.17 Deploying)
 
@@ -283,49 +168,29 @@ Human Tokens are 1/1 Good Human Token Champions, and
 
 Demon Tokens are 4/4 Evil Demon Token Champions.
 
-2.3.5 Tokens can only exist in the In-play area. If a Token would leave the In-play area, it is diverted and
+2.3.5 Tokens can only exist in the In-play area. If a Token would leave the In-play area, it is diverted and removed from the game (typically to the token pile).
 
-removed from the game (typically to the token pile).
-
-2.3.5a Token cards leaving the In-play zone can still produce a zone-change trigger. Example: If a card
-
-ability triggers whenever a champion is broken, banished, or returned to a player’s hand, that ability will still
-
-trigger, even though the token does not end up in the new zone.
+2.3.5a Token cards leaving the In-play zone can still produce a zone-change trigger. Example: If a card ability triggers whenever a champion is broken, banished, or returned to a player’s hand, that ability will still trigger, even though the token does not end up in the new zone.
 
 2.3.6 If a token copy of a card comes into play, it will have the same name as the card it copied.
 
-2.3.7 Game Cards are authentic cards of the Epic Card Game with the Epic logo on the back. (In other
-
-words, the cards in the box that are not tokens.)
+2.3.7 Game Cards are authentic cards of the Epic Card Game with the Epic logo on the back. (In other words, the cards in the box that are not tokens.)
 
 2.4 God cards
 
-2.4.1 In some formats, God cards may be played with a deck. To play a God card, a player reveals the card
+2.4.1 In some formats, God cards may be played with a deck. To play a God card, a player reveals the card at the start of the game and places it in the Supplemental Zone face-up. The God card will remain in the Supplemental Zone, and cannot be removed until that player leaves the game.
 
-at the start of the game and places it in the Supplemental Zone face-up. The God card will remain in the
+2.4.2 God cards in the Supplemental Zone cannot be affected by cards, abilities, or powers, although the effects that God cards generate may be affected, mitigated, or neutralized.
 
-Supplemental Zone, and cannot be removed until that player leaves the game.
+2.4.3 The gender of the God cards are for flavor only. Anything that would impact a God card would also impact a Goddess card.
 
-2.4.2 God cards in the Supplemental Zone cannot be affected by cards, abilities, or powers, although the
-
-effects that God cards generate may be affected, mitigated, or neutralized.
-
-2.4.3 The gender of the God cards are for flavor only. Anything that would impact a God card would also
-
-impact a Goddess card.
-
-2.4.4 Demigod cards are a type of God card. Anything that would impact a God card would also impact a
-
-Demigod card or a Demigoddess card.
+2.4.4 Demigod cards are a type of God card. Anything that would impact a God card would also impact a Demigod card or a Demigoddess card.
 
 2.4.5 For more information about formats that use these cards, please see epiccardgame.com/formats.
 
 2.5 Alignment
 
-2.5.1 The Alignment of a card refers to the alignment symbol in the top left corner. The four alignments in
-
-Epic are: Good, Evil, Wild, and Sage.
+2.5.1 The Alignment of a card refers to the alignment symbol in the top left corner. The four alignments in Epic are: Good, Evil, Wild, and Sage.
 
 2.5.2 The card’s Alignment is also a trait, and is listed on the card type line.
 
@@ -499,11 +364,11 @@ the power, plus costs added by other cards and/or effects.
 
 consequences, and retrieve all costs as long as the following is true:
 
-● The player has gained no knowledge from the actions associated with playing that card or using that
+- The player has gained no knowledge from the actions associated with playing that card or using that
 
 power (for example, drawing a card or seeing a player’s pick of an option that card provides ), AND
 
-● The player has not started another sequence of actions by playing a different card or using a
+- The player has not started another sequence of actions by playing a different card or using a
 
 different power or passing initiative.
 
@@ -577,13 +442,13 @@ Initiative passes to the opponent, who may then make any number of plays, then p
 
 depending on whether or not the opponent made any plays.
 
-● If the opponent did not make any plays, the turn proceeds to the End Phase (see 4.5).
+- If the opponent did not make any plays, the turn proceeds to the End Phase (see 4.5).
 
-● If the opponent did make any plays, the player whose turn it is chooses one:
+- If the opponent did make any plays, the player whose turn it is chooses one:
 
-● Proceed to the End Phase (see 4.5), or
+- Proceed to the End Phase (see 4.5), or
 
-● Continue with the Main Phase (see 4.3.1). This option may only be chosen if the player will
+- Continue with the Main Phase (see 4.3.1). This option may only be chosen if the player will
 
 make a play or begin a battle. (The player may not continue with their main phase and do
 
@@ -595,13 +460,13 @@ Initiative passes to the player to their left, who may then make any number of p
 
 process until initiative would pass back to the player whose turn it is.
 
-● If everyone else did not make any plays, the turn proceeds to the End Phase (see 4.5).
+- If everyone else did not make any plays, the turn proceeds to the End Phase (see 4.5).
 
-● If anyone else did make any plays, the player whose turn it is may make any number of plays, then
+- If anyone else did make any plays, the player whose turn it is may make any number of plays, then
 
 pass.
 
-● If the player who would receive priority is the last player to have made any plays, proceed to 4.3.6.
+- If the player who would receive priority is the last player to have made any plays, proceed to 4.3.6.
 
 Otherwise, that player receives priority, makes any number of plays, then passes. Repeat this
 
@@ -609,9 +474,9 @@ process until play proceeds to 4.3.6.
 
 4.3.6 The player whose turn it is chooses one:
 
-● Proceed to the End Phase (see 4.5), or
+- Proceed to the End Phase (see 4.5), or
 
-● Take initiative and continue with the Main Phase (see 4.3.1). This option may only be chosen
+- Take initiative and continue with the Main Phase (see 4.3.1). This option may only be chosen
 
 if the player will make a play or begin a battle. (The player may not continue with their main
 
@@ -789,9 +654,9 @@ M4.4.4 Initiative passes to the player to their left, who may then make any numb
 
 Repeat this process until initiative would be passed to the attacking player.
 
-● If everyone else did not make any plays, the turn proceeds to declaring blockers (M4.4.6).
+- If everyone else did not make any plays, the turn proceeds to declaring blockers (M4.4.6).
 
-● If anyone else did make any plays, the player whose turn it is may make any number of plays, then
+- If anyone else did make any plays, the player whose turn it is may make any number of plays, then
 
 pass (M4.4.5).
 
@@ -837,11 +702,9 @@ M4.4.9 Initiative passes to the player to their left, who may then make any numb
 
 Repeat this process until initiative would be passed to the defending player.
 
-● If everyone else did not make any plays, the turn proceeds to dealing damage (M4.4.11).
+- If everyone else did not make any plays, the turn proceeds to dealing damage (M4.4.11).
 
-● If anyone else did make any plays, the player whose turn it is may make any number of plays, then
-
-pass (M4.4.10).
+- If anyone else did make any plays, the player whose turn it is may make any number of plays, then pass (M4.4.10).
 
 M4.4.10 If the player who would receive priority is the last player to have made any plays, proceed to deal
 
