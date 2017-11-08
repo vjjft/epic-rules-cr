@@ -4,31 +4,6 @@ Last Updated: April 6th 2017
 
 © White Wizard Games LLC
 
-IMPORTANT CHANGES
-
-1.8.4 The player who goes second now mulligans first.
-
-4.1.2 "Making a play" is defined and used throughout the document. Making a play is playing a card or using
-
-a power.
-
-4.3.3 - 4.3.6 End-of-Main Phase sequence is redefined.
-
-4.4 Combat is redefined.
-
-M4.4 Combat for multiplayer games is redefined and put into its own section.
-
-MINOR CHANGES
-
-1.2.1 Adding alternate win conditions to the document
-
-3.7 Reversing an action slight clarification.
-
-4.1.4 Slight change to the wording of plays one may make during another player's turn.
-
-5.8 Blitz wording cleaned up.
-
-Changes and additions new to the 4/6/17 version are highlighted throughout the document.
 
 This document contains the complete rules of the game, including obscure clauses. It is intended for
 
