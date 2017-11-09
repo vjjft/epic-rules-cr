@@ -1,4 +1,15 @@
-EPIC COMPLETE RULES Last Updated: April 6th 2017 © White Wizard Games LLC This document contains the complete rules of the game, including obscure clauses. It is intended for tournament organizers and judges of Epic. The standard rulebook can be found at EpicCardGame.com/rules . Comments? Questions? Please email events@EpicCardGame.com and let us know!
+# ECG Rules, Unofficial for Community Review
+
+#### *Base text retrieved from [EpicCompleteRulesApril2017.pdf](http://www.epiccardgame.com/wp-content/uploads/2017/04/EpicCompleteRulesApril2017.pdf)*
+
+> EPIC COMPLETE RULES
+>
+> Last Updated: April 6th 2017
+> © White Wizard Games LLC
+>
+> This document contains the complete rules of the game, including obscure clauses. It is intended for tournament organizers and judges of Epic. The standard rulebook can be found at EpicCardGame.com/rules.
+>
+> Comments? Questions? Please email events@EpicCardGame.com and let us know!
 
 SECTION 1 - OVERVIEW
 
