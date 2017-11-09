@@ -19,7 +19,7 @@
 
 1.2 In these rules, the term “Player” refers to an individual. In the case of a team game where players share a turn and a single health total (the Hydra format, for instance) the term “Player” refers to the team.
 
-1.2 Winning and Losing
+#### 1.2 Winning and Losing
 
 1.2.1 A player wins the game if either:
 
@@ -32,13 +32,13 @@
 - Their health total is reduced to 0 or less,
 - or if they leave the game (for example, if they concede).
 
-1.3 Deck
+#### 1.3 Deck
 
 1.3.1 A player’s deck consists of the game cards (see 2.3 Tokens and Game Cards) with which they start the game. These are shuffled randomly in a face-down stack.
 
 1.3.2 If playing with God or Demigod cards, they start the game in the Supplemental zone and are not part of a player's deck.
 
-1.4 Zones
+#### 1.4 Zones
 
 1.4.1 There are five zones in the game: Hand, In-play, Deck, Discard pile, and Supplemental Zone. A card will always be in one of these zones.
 
@@ -56,7 +56,7 @@
 
 1.4.8 When a card is revealed from a player’s hand due to a card effect (for instance, for the Loyalty ability), the identity of that card is public information long enough for anyone to inspect the card, and then it becomes hidden information again. Players have the right to see the card before it is hidden again. If a card changes zones while it is revealed, that zone change will also be known to all players.
 
-1.5 Health
+#### 1.5 Health
 
 1.5.1 In a standard game, each player starts at 30 health. Players are expected to use a method to keep track of their health total that is agreeable to all players. Alternate formats may have players start with a different amount of Health.
 
@@ -66,7 +66,7 @@
 
 1.5.4 If a player is ever at 0 or less Health, that player loses the game immediately per rule 1.2.
 
-1.6 Drawing a card
+#### 1.6 Drawing a card
 
 1.6.1 Drawing a card refers to the act of a player taking the top card of their deck and putting it into their
 hand.
@@ -77,7 +77,7 @@ hand.
 
 1.6.4 Unless a format specifically says otherwise, the player who goes first does not draw a card at the start of their first turn.
 
-1.7 Discarding
+#### 1.7 Discarding
 
 1.7.1 Discarding a card refers to the act of a player taking a card from their hand, and putting it into their discard pile.
 
@@ -97,7 +97,7 @@ hand.
 
 1.8.4 The player going second in the game makes the first decision as to how many cards to mulligan. Other players mulligan in clockwise order from that player.
 
-1.9 Card Ownership
+#### 1.9 Card Ownership
 
 1.9.1 For the purposes of gameplay, the owner of a card is the person who began the game with that card in their deck or in play.
 
@@ -105,7 +105,7 @@ hand.
 
 1.9.3 If a player leaves a game, all cards that player owns also leave the game.
 
-1.10 Public and Private Information
+#### 1.10 Public and Private Information
 
 1.10.1 Opponents have the right to know anything that is public information. This includes: The number of cards in a player’s hand and deck, the contents of each discard pile, the rules text of any card that is visible (in-play, discard pile, or supplemental) as well as cards that are revealed from a player’s hand at the time they are revealed, any unlisted modifications on a card (including damage, and increases or decreases to offense or defense), and health total of any player or team.
 
@@ -119,7 +119,7 @@ hand.
 
 2.0.2 An individual object that isn’t a card is considered a Token (see 2.3 Tokens), though they may be represented by cards.
 
-2.1 Champions
+#### 2.1 Champions
 
 2.1.1 Champion cards have the Champion trait on the card type line.
 
@@ -137,7 +137,7 @@ hand.
 
 2.1.8 Champions may be Tokens. (See 2.3 Tokens)
 
-2.2 Events
+#### 2.2 Events
 
 2.2.1 Event cards have the Event trait on the type line.
 
@@ -147,7 +147,7 @@ hand.
 
 2.2.4 When a player finishes resolving an Event, they place it into their Discard pile.
 
-2.3 Tokens and Game Cards
+#### 2.3 Tokens and Game Cards
 
 2.3.1 Tokens represent an object in the In-play area that is not represented by a card. Tokens all have the Token trait. At the beginning of the game, players may have a “token pile” where their tokens wait to be used. (This token pile is not a game zone.)
 
@@ -165,7 +165,7 @@ hand.
 
 2.3.7 Game Cards are authentic cards of the Epic Card Game with the Epic logo on the back. (In other words, the cards in the box that are not tokens.)
 
-2.4 God cards
+#### 2.4 God cards
 
 2.4.1 In some formats, God cards may be played with a deck. To play a God card, a player reveals the card at the start of the game and places it in the Supplemental Zone face-up. The God card will remain in the Supplemental Zone, and cannot be removed until that player leaves the game.
 
@@ -177,7 +177,7 @@ hand.
 
 2.4.5 For more information about formats that use these cards, please see epiccardgame.com/formats.
 
-2.5 Alignment
+#### 2.5 Alignment
 
 2.5.1 The Alignment of a card refers to the alignment symbol in the top left corner. The four alignments in Epic are: Good, Evil, Wild, and Sage.
 
@@ -185,7 +185,7 @@ hand.
 
 2.5.3 Alignment is not a power or ability, and cannot be affected by cards that remove powers or abilities. Effects may add an alignment if the card specifically say this, and cards may have more than one alignment. (For example: Dark Leader says that “your other human champions have +1 offense and are also evil.” While you have Dark Leader in play your human tokens are both good and evil.)
 
-2.6 Cards in play.
+#### 2.6 Cards in play.
 
 2.6.1 Cards in the In-play zone may be Prepared, Expended, or Flipped.
 
@@ -195,7 +195,7 @@ hand.
 
 2.6.4 Flipped cards are turned 180 degrees, with the bottom edge facing away from the controller. Cards that are flipped may still be expended.
 
-2.7 Counters
+#### 2.7 Counters
 
 2.7 Some cards, abilities, and powers can generate Counters. Counters are placed on Champions, and may modify that Champion’s stats, rules text, or traits. (For instance: Djinn of the Sands enters play with three +1 offense / +1 defense counters.)
 
@@ -238,7 +238,7 @@ choosing. Example: Player A controls 2 Fire Shaman. Player A plays Burrowing Wur
 
 3.2.6 The player that played the card now has Initiative to play another card, use a power, attack, or pass.
 
-3.3 Continuous Abilities
+#### 3.3 Continuous Abilities
 
 3.3.1 A continuous ability is an effect on a card that does not have an activation cost (3.5 Powers) or a trigger (3.4 Triggers).. Example: Standard Bearer gives all your other Good champions +2 offense.
 
@@ -246,13 +246,13 @@ choosing. Example: Player A controls 2 Fire Shaman. Player A plays Burrowing Wur
 
 3.3.3 Continuous abilities apply to everything in play at the same time as the card is in play. They stop applying when the card leaves play.
 
-3.4 Triggered Abilities
+#### 3.4 Triggered Abilities
 
 3.4.1 Triggered abilities are abilities that are produced when a specific condition is met. Triggered abilities are denoted by an arrow in the rules text. The condition is listed before an arrow, with the effect listed after the arrow. Example: “When this card is broken → Draw a card.”
 
 3.4.2 If an ability triggers in the middle of the resolution of an event or effect, that ability will wait until the next time an event could be played (by anyone) in order to resolve.
 
-3.5 Powers
+#### 3.5 Powers
 
 3.5.1 Powers are effects that require a cost to be paid in order to apply a listed outcome. Powers are denoted by a colon in the rules text. The cost is listed before the colon, with the outcome listed after the colon.
 
@@ -260,7 +260,7 @@ choosing. Example: Player A controls 2 Fire Shaman. Player A plays Burrowing Wur
 
 3.5.3 If the full amount of the cost cannot be paid, the power cannot be played. Example: Crystal Golem has a power of “Break this card: Draw two cards.” If Crystal Golem also had unbreakable , the power couldn’t be used.
 
-3.6 Costs
+#### 3.6 Costs
 
 3.6.1 The cost to play a card is the value in the top right corner of the card, plus any additional costs listed in the text box, plus any costs added by other cards and/or effects.
 
@@ -268,7 +268,7 @@ choosing. Example: Player A controls 2 Fire Shaman. Player A plays Burrowing Wur
 
 3.6.3 If a player cannot pay the cost of a card or power, the player may not play the card or power.
 
-3.7 Reversing an action
+#### 3.7 Reversing an action
 
 3.7.1 If a player plays a card or uses a power, that player may opt to reverse the actions, undo
 consequences, and retrieve all costs as long as the following is true:
@@ -280,7 +280,7 @@ consequences, and retrieve all costs as long as the following is true:
 
 4.0 There are 4 phases in each turn. Start, Main, Battle, and End.
 
-4.1 Initiative
+#### 4.1 Initiative
 
 4.1.1 At the start of a player’s turn, that player gains Initiative. A player retains Initiative until they elect to pass.
 
@@ -344,7 +344,7 @@ consequences, and retrieve all costs as long as the following is true:
 
 4.4 Battle Phase may be declared during the Main Phase of a player’s turn if that player has Initiative and one or more Champions that can attack. (Multiplayer rules are in section M4.4.)
 
-Declare Attackers
+##### *Declare Attackers*
 
 4.4.1 Players may only attack on their own turn. When a player declares an attack, the player must choose one or more eligible champions he or she controls, expends them, and chooses an opponent to attack. Eligible champions are those that are prepared and either have blitz (see 5.8) or are not deploying. Those champions become “attacking champions” until the end of the Battle Phase (see 4.4.15).
 
@@ -352,7 +352,7 @@ Declare Attackers
 
 4.4.2 Any triggers resulting from the attack resolve starting with the player whose turn it is.
 
-Before Blocks
+##### *Before Blocks*
 
 4.4.3 The attacking player may make any number of plays, then pass initiative to the defending player.
 
@@ -360,7 +360,7 @@ Before Blocks
 
 4.4.5 The attacking player may make any number of plays (again), then pass initiative. If the attacking player made no plays in this step, proceed to declaring blocks (go to step 4.4.6). Otherwise the defending player receives initiative (again) and may make plays (go to step 4.4.4).
 
-Declare Blockers
+##### *Declare Blockers*
 
 4.4.6 The defending player may declare any number of prepared champions to block the attacker(s). Those champions become “blocking champions” until the end of the Battle Phase (see 4.4.14). All blocking champions become flipped.
 
@@ -372,7 +372,7 @@ Declare Blockers
 
 4.4.7 Any triggers resulting from the block resolve starting with the player whose turn it is.
 
-Before Damage
+##### *Before Damage*
 
 4.4.8 The defending player receives initiative first. They may make any number of plays, then pass initiative to the attacking player.
 
@@ -380,7 +380,7 @@ Before Damage
 
 4.4.10 The defending player may make any number of plays (again), then pass initiative. If the defending player made no plays in this step, proceed to dealing damage (go to step 4.4.11). Otherwise the attacking player receives initiative (again) and may make plays (go to step 4.4.9).
 
-Deal Damage
+##### *Deal Damage*
 
 4.4.11 Champions deal damage. If the attack is not blocked, the attacking champions deal damage equal to their offense directly to the player. Otherwise, blocked champions and the champions blocking them deal damage equal to their offense to the opposing group.
 
@@ -418,7 +418,7 @@ Before Damage M4.4.8 The defending player receives initiative first. They may ma
 
 Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until the end of the battle wait until the game returns to the Main Phase.) If the attack is not blocked, the attacking champions deal damage equal to their offense directly to the player. Otherwise, blocked champions and the champions blocking them deal damage equal to their offense to the opposing group. M4.4.11a If any champions have breakthrough (5.7 Breakthrough), subtract the defense of the defending champions from the total offense of the attacking champions with breakthrough. The attacking player may apply the excess damage, if any, to the defending player. Example: an attacking group consists of three champions. 4 offence, 7 offence with breakthrough, and 8 offence with breakthrough. The total defence of blocking champions is 10. Although the total offence is 19, the total of breakthrough champions is 15. 15 minus 10 is 5, so the defending player takes 5 damage. M4.4.11b Starting with the attacker, each player chooses their champions to deal damage to opposing champions divided however they chose. In the case of multiple Champions dealing damage, damage will be assigned by each attacking champion in the order chosen by the controller. Each champion assigns all its damage before moving on to the next Champion. Damage from defending Champions is then assigned the same way. All damage from all champions is applied at the same time. (The attacking champions do not break the defenders before they get a chance to hit back.) M4.4.11c Champions may assign more damage than necessary to break an opposing champion. M4.4.12 If champions are somehow removed from battle, they will not deal damage. Attacking champions cannot deal damage to blocking champions that have been removed from battle. If the attacking champions have Breakthrough, they may deal damage to the defending player. M4.4.13 Any champions that have taken damage to equal or exceed their defense are broken and are placed in the owner’s discard pile(s). M4.4.14 Any triggers resulting from champions being broken, dealing damage, or receiving damage resolve starting with the player whose turn it is. M4.4.15 The Battle Phase is now over and champions are no longer attacking or defending. Play resumes in the Main phase per rule 4.3. The player whose turn it is may declare another Battle Phase per rule 4.4 if the attacking player has any more champions available to attack.
 
-4.5 End Phase
+#### 4.5 End Phase
 
 4.5.1 No player may play cards or powers during the end phase. If an ability triggers during the end phase, it will immediately resolve.
 
@@ -458,7 +458,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.1 Keywords represent rules text that is usually not present on a card. A full explanation of each keyword ability is listed below. These are considered to be rules text that are represented by the keyword.
 
-5.2 Airborne
+#### 5.2 Airborne
 
 5.2.1 The full text of Airborne is: “This champion cannot be blocked by a champion unless that defending champion has Airborne.”
 
@@ -482,7 +482,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.3.7 If a champion is given an ability or power via Loyalty, that ability or power will remain on the champion while it is in play, even if another player takes control of it.
 
-5.4 Recall
+#### 5.4 Recall
 
 5.4.1 Recall means “Return this card from your discard pile to your hand.”
 
@@ -490,7 +490,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.4.3 The ability does not trigger from the In-play zone. Example: Sasha has Cave Troll in play. Sasha plays Hurricane. The Cave Troll recall ability will not trigger because the card was not in the discard pile at the time the Hurricane was played.
 
-5.5 Recycle
+#### 5.5 Recycle
 
 5.5.1 Recycle means: “You may put two cards from your discard pile on the bottom of your deck in any order. If you do, draw a card.”
 
@@ -504,7 +504,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.5.6 A card cannot be recycled if it is in the middle of resolving. Example: Spike Trap, when played, cannot be recycled to its own ability, since it is still resolving.
 
-5.6 Tribute
+#### 5.6 Tribute
 
 5.6.1 Tribute means: “When this card enters play, apply the following effect:”
 
@@ -514,7 +514,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.6.4 Tribute abilities are not costs. You are allowed to play a Champion with a tribute ability that doesn’t have a valid target. Example: If there were no evil champions in play, you could still play a card with “Tribute → Break target evil champion ” .
 
-5.7 Breakthrough
+#### 5.7 Breakthrough
 
 5.7.1 Breakthrough means: “When Champions with Breakthrough deal Battle damage, if the Attacking player assigns 1 damage from a Breakthrough champion for each point of Defense on the total blocking champions, any unassigned damage may be applied to the defending player.”
 
@@ -528,7 +528,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.7.6 If a Breakthrough champion is blocked by multiple blockers, the attacking player may assign more damage to one blocking champion than would be necessary to break it. If they do not specify, the player is assumed to be applying damage in such a way as to deal maximum damage to the player.
 
-5.8 Blitz
+#### 5.8 Blitz
 
 5.8.1 Blitz means: “Ignore all deploying restrictions that would apply to this card.”
 
@@ -536,7 +536,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.8.3 If a champion loses Blitz while it is deploying, it will be affected by the deploying status and cannot attack or pay expend costs on the card.
 
-5.9 Unbreakable
+#### 5.9 Unbreakable
 
 5.9.1 Unbreakable means: “This champion cannot be broken.”
 
@@ -546,13 +546,13 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.9.4 If an effect requires you to break a champion as a cost, you cannot choose an unbreakable champion.
 
-5.10 Unblockable
+#### 5.10 Unblockable
 
 5.10.1 Unblockable means: “Defending champions may not be assigned to block this champion.”
 
 5.10.2 Unblockable champions may become blocked indirectly. Example: Two champions attack as a group, one is unblockable. The defending champion may block the other champion, and both champions will be considered blocked (and deal damage accordingly).
 
-5.11 Unbanishable
+#### 5.11 Unbanishable
 
 5.11.1 Unbanishable means: “This champion cannot be banished from the in-play zone.”
 
@@ -560,7 +560,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.11.3 Effects that mimic banishing but do not use that keyword will still work.
 
-5.12 Untargetable
+#### 5.12 Untargetable
 
 5.12.1 Untargetable means: “This champion cannot be named as a target for a card or effect while in the in-play zone.” This includes effects from either player.
 
@@ -568,7 +568,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.12.3 Untargetable cards may still be chosen for effects or game mechanics that require a choice to be made. Example: An untargetable champion may still be blocked by a defender, and combat damage may be assigned to an untargetable champion.
 
-5.13 Righteous
+#### 5.13 Righteous
 
 5.13.1 Righteous means: “When this champion deals damage → its controller gains that much health.”
 
@@ -580,13 +580,13 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.13.5 If a Champion with Righteous deals Battle damage, the controller may not gain more health than the current offense of the Champion.
 
-5.14 Ambush
+#### 5.14 Ambush
 
 5.14.1 Ambush means: “This card may be played any time you could play an event.”
 
 5.14.2 Champions that enter play this way will still be considered deploying as usual, until the start of the controller’s turn.
 
-5.15 Banish
+#### 5.15 Banish
 
 5.15.1 Banish means: “Put this card on the bottom of its owner’s deck.”
 
@@ -594,7 +594,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.15.3 Cards can only go to the owner’s deck. If a card is banished from an In-play area other than the owner’s, it will go to the owner’s deck, but is still considered to be banished from the controlling player’s area.
 
-5.16 Break
+#### 5.16 Break
 
 5.16.1 Break means: “Move this card from the In-play area to the discard pile.”
 
@@ -602,7 +602,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.16.3 A card may be broken from a card effect, or from damage. If a champion has taken damage equal to or exceeding its defense in a single turn, it is immediately broken. Exception: An Unbreakable card will take damage, but will not break as a result of any amount of damage.
 
-5.17 Deploying
+#### 5.17 Deploying
 
 5.17.1 Deploying means: “This champion cannot attack, or use powers with an expend cost.”
 
@@ -610,7 +610,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.17.3 All cards that enter the In-play area are considered to be deploying, but champions with Blitz may ignore the effect.
 
-5.18 Ally Abilities
+#### 5.18 Ally Abilities
 
 5.18.1 Ally Abilities appear on cards as Alignment symbols. The Ally symbols mean: “When you play a card from your hand with a cost of {1} that matches this Alignment symbol, apply the following effect.”
 
@@ -620,13 +620,13 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.18.4 If you cannot legally follow the instructions of the ally ability, do as much as you can.
 
-5.19 Reveal
+#### 5.19 Reveal
 
 5.19.1 When a card is revealed, all players are allowed to see all aspects of the card.
 
 5.19.2 As long as a card is in a player’s hand, that card may be revealed. This is true, even if an opponent knows that the card is there (from a previous reveal effect). Cards may be revealed even if an opponent knows the card is in your hand.
 
-5.20 Target
+#### 5.20 Target
 
 5.20.1 The word “target” refers to a choice made by a player when an Event or Power is resolving that contains the word “target”. Targets are not named on announcement.
 
@@ -644,7 +644,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 5.20.7 When resolving an event that has targets, you must target as many things as possible. If there are not as many legal targets available as called for on the card, you target as many as you can. For instance, if there is one champion in play and you play an event that says “Break two target champions” you break the one you can.
 
-5.21 Transform
+#### 5.21 Transform
 
 5.21.1 Transform means “Put this card on the bottom of its owner’s deck. Its controller puts a champion <type> token into play.” The <type> will be specified on the card as part of the Transform ability text.
 
