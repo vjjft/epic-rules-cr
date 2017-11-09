@@ -11,7 +11,7 @@
 >
 > Comments? Questions? Please email events@EpicCardGame.com and let us know!
 
-SECTION 1 - OVERVIEW
+### SECTION 1 - OVERVIEW
 
 1.0 This document contains the full rules for Epic Card Game (“Epic”) by White Wizard Games. Permission is granted to reproduce and/or distribute this document without charge for use with Epic events.
 
@@ -111,7 +111,7 @@ hand.
 
 1.10.2 Anything that isn’t public information is considered private information, and does not have to be shared or revealed to any opponent. Players are allowed to share private information if they are on the same team as long as they have access to that information. Example: A player may not share the identity of the top card of their deck unless they have some effect that allows them to know what the top card of their deck is.
 
-SECTION 2 - CARDS AND CARD TYPES
+### SECTION 2 - CARDS AND CARD TYPES
 
 2.0 There are three main card types in Epic: Champions, Events, and Gods.
 
@@ -205,7 +205,7 @@ SECTION 2 - CARDS AND CARD TYPES
 
 2.7.3 Counters have a cumulative effect. There is no limit on the amount of counters that may be placed on a Champion.
 
-SECTION 3 - PLAYING A CARD
+### SECTION 3 - PLAYING A CARD
 
 3.0 Playing a card refers to all of the actions necessary to legally play the card, and following all of the instructions on the card in order to have it resolve correctly.
 
@@ -276,7 +276,7 @@ consequences, and retrieve all costs as long as the following is true:
 - The player has gained no knowledge from the actions associated with playing that card or using that power (for example, drawing a card or seeing a player’s pick of an option that card provides ), AND
 - The player has not started another sequence of actions by playing a different card or using a different power or passing initiative.
 
-SECTION 4 - GAME PHASES AND INITIATIVE
+### SECTION 4 - GAME PHASES AND INITIATIVE
 
 4.0 There are 4 phases in each turn. Start, Main, Battle, and End.
 
@@ -436,7 +436,7 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 4.5.2f The turn ends.
 
-SECTION 5 - ABILITIES, TRAITS, AND KEYWORDS
+### SECTION 5 - ABILITIES, TRAITS, AND KEYWORDS
 
 5.0 Abilities are considered to be the rules text of a card or game object that ends up in the In-play zone, or a shaded ability or power in the text box of a card in the discard pile. Words in the type line are considered traits. Keywords are single words or phrases that represent larger blocks of rules text on a card. Reminder text in italics is not considered to be rules text, but it may represent or replicate rules text.
 
@@ -660,7 +660,7 @@ SECTION 5 - ABILITIES, TRAITS, AND KEYWORDS
 
 5.21.7 If multiple cards are put on the bottom of the deck, they are first randomized.
 
-INDEX
+### INDEX
 
 Abilities, continuous: 3.3
 
