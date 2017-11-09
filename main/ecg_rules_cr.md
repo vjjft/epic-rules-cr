@@ -398,25 +398,65 @@ consequences, and retrieve all costs as long as the following is true:
 
 4.4.15 The Battle Phase is now over and champions are no longer attacking or defending. Play resumes in the Main phase per rule 4.3. The player whose turn it is may declare another Battle Phase per rule 4.4 if the attacking player has any more champions available to attack. M4.4 Battle Phase for Multiplayer Games may be declared during the Main Phase of a player’s turn if that player has Initiative and one or more Champions that can attack.
 
-Declare Attackers M4.4.1 Players may only attack on their own turn. When a player declares an attack, the player must choose one or more eligible champions he or she controls, expends them, and chooses an opponent to attack. Eligible champions are those that are prepared and either have blitz (see 5.8) or are not deploying. Those champions become “attacking champions” until the end of the Battle Phase (see M4.4.15). M4.4.1a If at the end of any subset of the Battle Phase there are no attacking champions, the Battle Phase ends (see 4.4.15). Example: A human token is attacking. The defending player plays Flash Fire dealing two damage to each champion, including the attacking human token. That token breaks. The defending player may continue to make plays. When that player passes initiative, the Battle Phase ends. M4.4.2 Any triggers resulting from the attack resolve starting with the player whose turn it is.
+##### *Declare Attackers*
 
-Before Blocks M4.4.3 The attacking player may make any number of plays, then pass. M4.4.4 Initiative passes to the player to their left, who may then make any number of plays, then pass. Repeat this process until initiative would be passed to the attacking player.
+M4.4.1 Players may only attack on their own turn. When a player declares an attack, the player must choose one or more eligible champions he or she controls, expends them, and chooses an opponent to attack. Eligible champions are those that are prepared and either have blitz (see 5.8) or are not deploying. Those champions become “attacking champions” until the end of the Battle Phase (see M4.4.15).
+
+M4.4.1a If at the end of any subset of the Battle Phase there are no attacking champions, the Battle Phase ends (see 4.4.15). Example: A human token is attacking. The defending player plays Flash Fire dealing two damage to each champion, including the attacking human token. That token breaks. The defending player may continue to make plays. When that player passes initiative, the Battle Phase ends.
+
+M4.4.2 Any triggers resulting from the attack resolve starting with the player whose turn it is.
+
+##### *Before Blocks*
+
+M4.4.3 The attacking player may make any number of plays, then pass.
+
+M4.4.4 Initiative passes to the player to their left, who may then make any number of plays, then pass. Repeat this process until initiative would be passed to the attacking player.
 
 - If everyone else did not make any plays, the turn proceeds to declaring blockers (M4.4.6).
+- If anyone else did make any plays, the player whose turn it is may make any number of plays, then pass (M4.4.5).
 
-- If anyone else did make any plays, the player whose turn it is may make any number of plays, then pass (M4.4.5). M4.4.5 If the player who would receive priority is the last player to have made any plays, proceed to declare blockers (M4.4.6). Otherwise, that player receives priority, makes any number of plays, then passes. Repeat this process until play proceeds to M4.4.6.
+M4.4.5 If the player who would receive priority is the last player to have made any plays, proceed to declare blockers (M4.4.6). Otherwise, that player receives priority, makes any number of plays, then passes. Repeat this process until play proceeds to M4.4.6.
 
-Declare Blockers M4.4.6 The defending player may declare any number of prepared champions to block the attacker(s). Those champions become “blocking champions” until the end of the Battle Phase (see M4.4.14). All blocking champions become flipped. M4.4.6a If the defending player blocks with a champion, that champion blocks the entire attack, even if this results in a block that might not normally be legal. Example: An Airborne champion attacks with a non-Airborne champion. The defending player may block the team with a non-Airborne champion, and the Airborne champion will be considered blocked. M4.4.6b Once a Champion is legally blocked, it is still considered to be blocked even if something removes the blocking champion from the battle.
+##### *Declare Blockers*
 
-4.4.6c If an attacking champion “must be blocked” due to a game effect, and the defending player has a champion in play that can block the attacking champion, a block must be made. Once that champion has been blocked by even one champion, it’s “must be blocked” rule has been satisfied. M4.4.7 Any triggers resulting from the block resolve starting with the player whose turn it is.
+M4.4.6 The defending player may declare any number of prepared champions to block the attacker(s). Those champions become “blocking champions” until the end of the Battle Phase (see M4.4.14). All blocking champions become flipped.
 
-Before Damage M4.4.8 The defending player receives initiative first. They may make any number of plays, then pass. M4.4.9 Initiative passes to the player to their left, who may then make any number of plays, then pass. Repeat this process until initiative would be passed to the defending player.
+M4.4.6a If the defending player blocks with a champion, that champion blocks the entire attack, even if this results in a block that might not normally be legal. Example: An Airborne champion attacks with a non-Airborne champion. The defending player may block the team with a non-Airborne champion, and the Airborne champion will be considered blocked.
+
+M4.4.6b Once a Champion is legally blocked, it is still considered to be blocked even if something removes the blocking champion from the battle.
+
+4.4.6c If an attacking champion “must be blocked” due to a game effect, and the defending player has a champion in play that can block the attacking champion, a block must be made. Once that champion has been blocked by even one champion, it’s “must be blocked” rule has been satisfied.
+
+M4.4.7 Any triggers resulting from the block resolve starting with the player whose turn it is.
+
+##### *Before Damage*
+
+M4.4.8 The defending player receives initiative first. They may make any number of plays, then pass.
+
+M4.4.9 Initiative passes to the player to their left, who may then make any number of plays, then pass. Repeat this process until initiative would be passed to the defending player.
 
 - If everyone else did not make any plays, the turn proceeds to dealing damage (M4.4.11).
+- If anyone else did make any plays, the player whose turn it is may make any number of plays, then pass (M4.4.10).
 
-- If anyone else did make any plays, the player whose turn it is may make any number of plays, then pass (M4.4.10). M4.4.10 If the player who would receive priority is the last player to have made any plays, proceed to deal damage (M4.4.11). Otherwise, that player receives priority, makes any number of plays, then passes. Repeat this process until play proceeds to M4.4.11.
+M4.4.10 If the player who would receive priority is the last player to have made any plays, proceed to deal damage (M4.4.11). Otherwise, that player receives priority, makes any number of plays, then passes. Repeat this process until play proceeds to M4.4.11.
 
-Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until the end of the battle wait until the game returns to the Main Phase.) If the attack is not blocked, the attacking champions deal damage equal to their offense directly to the player. Otherwise, blocked champions and the champions blocking them deal damage equal to their offense to the opposing group. M4.4.11a If any champions have breakthrough (5.7 Breakthrough), subtract the defense of the defending champions from the total offense of the attacking champions with breakthrough. The attacking player may apply the excess damage, if any, to the defending player. Example: an attacking group consists of three champions. 4 offence, 7 offence with breakthrough, and 8 offence with breakthrough. The total defence of blocking champions is 10. Although the total offence is 19, the total of breakthrough champions is 15. 15 minus 10 is 5, so the defending player takes 5 damage. M4.4.11b Starting with the attacker, each player chooses their champions to deal damage to opposing champions divided however they chose. In the case of multiple Champions dealing damage, damage will be assigned by each attacking champion in the order chosen by the controller. Each champion assigns all its damage before moving on to the next Champion. Damage from defending Champions is then assigned the same way. All damage from all champions is applied at the same time. (The attacking champions do not break the defenders before they get a chance to hit back.) M4.4.11c Champions may assign more damage than necessary to break an opposing champion. M4.4.12 If champions are somehow removed from battle, they will not deal damage. Attacking champions cannot deal damage to blocking champions that have been removed from battle. If the attacking champions have Breakthrough, they may deal damage to the defending player. M4.4.13 Any champions that have taken damage to equal or exceed their defense are broken and are placed in the owner’s discard pile(s). M4.4.14 Any triggers resulting from champions being broken, dealing damage, or receiving damage resolve starting with the player whose turn it is. M4.4.15 The Battle Phase is now over and champions are no longer attacking or defending. Play resumes in the Main phase per rule 4.3. The player whose turn it is may declare another Battle Phase per rule 4.4 if the attacking player has any more champions available to attack.
+##### *Deal Damage*
+
+M4.4.11 Champions deal damage. (Note: All triggers from now until the end of the battle wait until the game returns to the Main Phase.) If the attack is not blocked, the attacking champions deal damage equal to their offense directly to the player. Otherwise, blocked champions and the champions blocking them deal damage equal to their offense to the opposing group.
+
+M4.4.11a If any champions have breakthrough (5.7 Breakthrough), subtract the defense of the defending champions from the total offense of the attacking champions with breakthrough. The attacking player may apply the excess damage, if any, to the defending player. Example: an attacking group consists of three champions. 4 offence, 7 offence with breakthrough, and 8 offence with breakthrough. The total defence of blocking champions is 10. Although the total offence is 19, the total of breakthrough champions is 15. 15 minus 10 is 5, so the defending player takes 5 damage.
+
+M4.4.11b Starting with the attacker, each player chooses their champions to deal damage to opposing champions divided however they chose. In the case of multiple Champions dealing damage, damage will be assigned by each attacking champion in the order chosen by the controller. Each champion assigns all its damage before moving on to the next Champion. Damage from defending Champions is then assigned the same way. All damage from all champions is applied at the same time. (The attacking champions do not break the defenders before they get a chance to hit back.)
+
+M4.4.11c Champions may assign more damage than necessary to break an opposing champion.
+
+M4.4.12 If champions are somehow removed from battle, they will not deal damage. Attacking champions cannot deal damage to blocking champions that have been removed from battle. If the attacking champions have Breakthrough, they may deal damage to the defending player.
+
+M4.4.13 Any champions that have taken damage to equal or exceed their defense are broken and are placed in the owner’s discard pile(s).
+
+M4.4.14 Any triggers resulting from champions being broken, dealing damage, or receiving damage resolve starting with the player whose turn it is.
+
+M4.4.15 The Battle Phase is now over and champions are no longer attacking or defending. Play resumes in the Main phase per rule 4.3. The player whose turn it is may declare another Battle Phase per rule 4.4 if the attacking player has any more champions available to attack.
 
 #### 4.5 End Phase
 
