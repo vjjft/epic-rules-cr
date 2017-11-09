@@ -662,78 +662,41 @@ Deal Damage M4.4.11 Champions deal damage. (Note: All triggers from now until th
 
 ### INDEX
 
-Abilities, continuous: 3.3
-
-Abilities, triggered: 3.4
-
-Airborne: 5.2
-
-Alignment: 2.5
-
-Ally abilities: 5.18
-
-Ambush: 5.14
-
-Banish: 5.15
-
-Battle Phase: 4.3
-
-Blitz 5.8
-
-Break: 5.16
-
-Breakthrough: 5.7
-
-Champions: 2.1
-
-Deploying: 5.17
-
-Events: 2.2
-
-Expend/Expended: 2.6
-
-Flip/Flipped: 2.6
-
-Gods: 2.4
-
-Keywords: 5.1
-
-Initiative: 4.1
-
-Losing the game 1.2
-
-Loyalty: 5.3
-
-Mulligan: 1.8
-
-Playing a card: Section 3
-
-Powers: 3.5
-
-Play, Making a play: 4.1.2
-
-Prepared: 2.6
-
-Recall: 5.4
-
-Recycle: 5.5
-
-Righteous: 5.13
-
-Target 5.20
-
-Token: 2.3
-
-Tribute: 5.6
-
-Turn Sequence: Section 4
-
-Unbanishable: 5.11
-
-Unblockable: 5.10
-
-Unbreakable: 5.9
-
-Untargetable: 5.12
-
-Winning the Game: 1.2
+- Abilities, continuous: 3.3
+- Abilities, triggered: 3.4
+- Airborne: 5.2
+- Alignment: 2.5
+- Ally abilities: 5.18
+- Ambush: 5.14
+- Banish: 5.15
+- Battle Phase: 4.3
+- Blitz 5.8
+- Break: 5.16
+- Breakthrough: 5.7
+- Champions: 2.1
+- Deploying: 5.17
+- Events: 2.2
+- Expend/Expended: 2.6
+- Flip/Flipped: 2.6
+- Gods: 2.4
+- Keywords: 5.1
+- Initiative: 4.1
+- Losing the game 1.2
+- Loyalty: 5.3
+- Mulligan: 1.8
+- Playing a card: Section 3
+- Powers: 3.5
+- Play, Making a play: 4.1.2
+- Prepared: 2.6
+- Recall: 5.4
+- Recycle: 5.5
+- Righteous: 5.13
+- Target 5.20
+- Token: 2.3
+- Tribute: 5.6
+- Turn Sequence: Section 4
+- Unbanishable: 5.11
+- Unblockable: 5.10
+- Unbreakable: 5.9
+- Untargetable: 5.12
+- Winning the Game: 1.2
