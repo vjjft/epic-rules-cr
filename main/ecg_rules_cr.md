@@ -87,7 +87,7 @@ hand.
 
 1.7.4 If any player has more than 7 cards in their hand at the end of their turn, that player discards cards until they have 7.
 
-1.8 Starting hand and the Mulligan rule
+#### 1.8 Starting hand and the Mulligan rule
 
 1.8.1 As the game starts, each player shuffles their deck and draws an opening hand of 5 cards. This may be modified by God cards.
 
@@ -197,7 +197,7 @@ hand.
 
 #### 2.7 Counters
 
-2.7 Some cards, abilities, and powers can generate Counters. Counters are placed on Champions, and may modify that Champion’s stats, rules text, or traits. (For instance: Djinn of the Sands enters play with three +1 offense / +1 defense counters.)
+2.7.0 Some cards, abilities, and powers can generate Counters. Counters are placed on Champions, and may modify that Champion’s stats, rules text, or traits. (For instance: Djinn of the Sands enters play with three +1 offense / +1 defense counters.)
 
 2.7.1 Counters may be represented by anything within reason (agreeable to both players and/or tournament staff).
 
@@ -292,7 +292,9 @@ consequences, and retrieve all costs as long as the following is true:
 
 4.1.5 When all players have declined to play a card or a power, the game progresses to the next phase (or if at the end of a Battle Phase, the game returns to the Main Phase).
 
-4.2 Start Phase always takes place at the beginning of each turn.
+#### 4.2 Start Phase
+
+4.2.0 Start Phase always takes place at the beginning of each turn.
 
 4.2.1 Players may not play cards or use powers during the start phase.
 
@@ -310,7 +312,9 @@ consequences, and retrieve all costs as long as the following is true:
 
 4.2.6 If anything triggers during the Start Phase, it will resolve during the Start phase. The game will only progress to the next phase when there is nothing waiting to resolve.
 
-4.3 Main Phase always takes place after the Start Phase.
+#### 4.3 Main Phase
+
+4.3.0 Main Phase always takes place after the Start Phase.
 
 4.3.1 The player whose turn it is has Initiative. That player may play cards, use abilities, and/or declare a Battle Phase. The player can do as many of these as they wish, in any order they choose.
 
@@ -506,7 +510,7 @@ M4.4.15 The Battle Phase is now over and champions are no longer attacking or de
 
 5.2.3 Multiple instances of Airborne on the same champion are redundant.
 
-5.3 Loyalty
+#### 5.3 Loyalty
 
 5.3.1 Loyalty is written as “Loyalty X”. Loyalty X means: “When this card enters play, you may reveal X cards from your hand that shares an alignment with this card. If you do, apply the following effect(s).”
 
