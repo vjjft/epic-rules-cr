@@ -332,7 +332,7 @@
 #### Rage
 - Does not count as playing a {1} cost card, even if the {1} ability is chosen.
 
-#### RAGING T-REX
+#### Raging T-Rex
 - If this card in unable to be declared as an attacker {ie, is expended or deploying}, nothing will happen.
 
 #### Rally the People
