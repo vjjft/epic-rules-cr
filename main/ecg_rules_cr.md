@@ -68,8 +68,7 @@
 
 #### 1.6 Drawing a card
 
-1.6.1 Drawing a card refers to the act of a player taking the top card of their deck and putting it into their
-hand.
+1.6.1 Drawing a card refers to the act of a player taking the top card of their deck and putting it into their hand.
 
 1.6.2 If a player attempts to draw a card, but cannot because there aren’t enough cards left in the deck, that player wins the game.
 
